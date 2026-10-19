@@ -1,0 +1,38 @@
+name: Weekly NFL power rankings
+
+on:
+  schedule:
+    - cron: "0 11 * * 2"   # Tuesdays 11:00 UTC = 6:00 AM ET
+  workflow_dispatch:        # manual trigger from the Actions tab
+
+# Serializes runs of this workflow on this branch so a manual run and the
+# schedule can never commit+push at the same time -- see the equivalent
+# guard in the three league repos' weekly.yml for the race it prevents.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
+      - name: Install R packages
+        run: Rscript -e 'install.packages(c("PlayerRatings", "nflreadr"))'
+
+      - name: Run NFL power rankings pipeline
+        run: Rscript R/nfl_power_rankings.R
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Weekly NFL power rankings update [automated]"
+          file_pattern: "data/**"
