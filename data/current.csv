@@ -1,33 +1,33 @@
 "Week","WeekLabel","Rank","Team","ABBREV","Rating","Deviation","Volatility","Record","RankChange","RatingChange","PreseasonRank"
-10,"Week 10",1,"Buffalo Bills","BUF",1801.3,123.1,0.06,"8-1",0,4.7,3
-10,"Week 10",2,"San Francisco 49ers","SF",1752.7,127.5,0.06,"8-1",1,13,11
-10,"Week 10",3,"Denver Broncos","DEN",1746.4,117.5,0.06,"7-2",-1,0,4
-10,"Week 10",4,"Chicago Bears","CHI",1695.1,116.4,0.06,"7-2",0,0,9
-10,"Week 10",5,"Detroit Lions","DET",1678.1,116.9,0.06,"7-2",1,30.8,14
-10,"Week 10",6,"Cincinnati Bengals","CIN",1659.7,117.4,0.06,"7-2",2,36.5,13
-10,"Week 10",7,"Jacksonville Jaguars","JAX",1655.3,119.8,0.06,"7-2",-2,7.6,10
-10,"Week 10",8,"Minnesota Vikings","MIN",1651.4,121.2,0.06,"7-2",3,36.6,18
-10,"Week 10",9,"Kansas City Chiefs","KC",1650.9,123.9,0.06,"7-2",-2,17.1,16
-10,"Week 10",10,"Seattle Seahawks","SEA",1635.5,114.2,0.06,"6-4",0,20.4,2
-10,"Week 10",11,"Los Angeles Rams","LA",1605.2,110.9,0.06,"6-4",1,18.6,1
-10,"Week 10",12,"Pittsburgh Steelers","PIT",1582.6,113.4,0.06,"6-3",-3,-33.9,20
-10,"Week 10",13,"New England Patriots","NE",1558,111.9,0.06,"5-5",0,-28.1,6
-10,"Week 10",14,"Green Bay Packers","GB",1556.4,109.1,0.06,"6-4",0,-29.3,17
-10,"Week 10",15,"Cleveland Browns","CLE",1487.5,111,0.06,"6-4",2,31.7,31
-10,"Week 10",16,"New York Giants","NYG",1474.2,114.6,0.06,"5-3-1",-1,-45.8,24
-10,"Week 10",17,"Washington Commanders","WAS",1452.2,118.7,0.06,"3-5-1",7,49.6,25
-10,"Week 10",18,"Carolina Panthers","CAR",1434,115.4,0.06,"4-5",7,40.1,22
-10,"Week 10",19,"Las Vegas Raiders","LV",1429.3,110.8,0.0599,"4-6",-1,-19.1,28
-10,"Week 10",20,"Baltimore Ravens","BAL",1421.1,115.2,0.06,"4-6",-4,-54.5,5
-10,"Week 10",21,"Tampa Bay Buccaneers","TB",1408.9,118.6,0.06,"3-6",2,0,19
-10,"Week 10",22,"Dallas Cowboys","DAL",1405.8,110.4,0.06,"4-6",-1,-9.8,15
-10,"Week 10",23,"Houston Texans","HOU",1405.6,114.1,0.06,"3-6",-4,-33.6,7
-10,"Week 10",24,"New Orleans Saints","NO",1398.2,116.3,0.06,"3-6",-4,-40.7,23
-10,"Week 10",25,"Arizona Cardinals","ARI",1391.9,114.6,0.06,"3-7",-3,-19.9,30
-10,"Week 10",26,"Atlanta Falcons","ATL",1370,115.1,0.06,"3-7",0,-14.8,26
-10,"Week 10",27,"Indianapolis Colts","IND",1336.7,113.2,0.06,"3-7",1,28.7,21
-10,"Week 10",28,"Philadelphia Eagles","PHI",1326.6,114.3,0.06,"2-7",-1,0,8
-10,"Week 10",29,"Los Angeles Chargers","LAC",1311.8,126,0.06,"1-8",2,66.3,12
-10,"Week 10",30,"New York Jets","NYJ",1272.5,119,0.06,"2-8",-1,-4.4,29
-10,"Week 10",31,"Tennessee Titans","TEN",1224.7,127.6,0.06,"1-8",1,-8.5,27
-10,"Week 10",32,"Miami Dolphins","MIA",1211.9,129.8,0.06,"1-8",-2,-38.4,32
+11,"Week 11",1,"Buffalo Bills","BUF",1804.6,122.5,0.06,"9-1",0,3.3,3
+11,"Week 11",2,"San Francisco 49ers","SF",1781.8,121.4,0.06,"9-1",0,29.1,11
+11,"Week 11",3,"Denver Broncos","DEN",1757.3,115.4,0.06,"8-2",0,11,4
+11,"Week 11",4,"Chicago Bears","CHI",1706.9,114.2,0.06,"8-2",0,11.8,9
+11,"Week 11",5,"Detroit Lions","DET",1691.4,113.9,0.06,"8-2",0,13.3,14
+11,"Week 11",6,"Kansas City Chiefs","KC",1666.3,120.1,0.06,"8-2",3,15.4,16
+11,"Week 11",7,"Seattle Seahawks","SEA",1635.5,114.2,0.06,"6-4",3,0,2
+11,"Week 11",8,"Minnesota Vikings","MIN",1625,116.1,0.06,"7-3",0,-26.5,18
+11,"Week 11",9,"Cincinnati Bengals","CIN",1607.2,113.7,0.06,"7-3",-3,-52.5,13
+11,"Week 11",10,"Los Angeles Rams","LA",1605.2,110.9,0.06,"6-4",1,0,1
+11,"Week 11",11,"Jacksonville Jaguars","JAX",1602.9,115.5,0.06,"7-3",-4,-52.4,10
+11,"Week 11",12,"New England Patriots","NE",1558,111.9,0.06,"5-5",1,0,6
+11,"Week 11",13,"Green Bay Packers","GB",1556.4,109.1,0.06,"6-4",1,0,17
+11,"Week 11",14,"Pittsburgh Steelers","PIT",1529.7,110.6,0.06,"6-4",-2,-52.9,20
+11,"Week 11",15,"New York Giants","NYG",1522.2,110.9,0.06,"6-3-1",1,48,24
+11,"Week 11",16,"Washington Commanders","WAS",1505.9,114.9,0.06,"4-5-1",1,53.7,25
+11,"Week 11",17,"Cleveland Browns","CLE",1487.5,111,0.06,"6-4",-2,0,31
+11,"Week 11",18,"Carolina Panthers","CAR",1465.9,110.6,0.06,"5-5",0,31.9,22
+11,"Week 11",19,"Houston Texans","HOU",1432.1,109.6,0.06,"4-6",4,26.5,7
+11,"Week 11",20,"Dallas Cowboys","DAL",1422.7,107.2,0.06,"5-6",2,16.9,15
+11,"Week 11",21,"Las Vegas Raiders","LV",1419.5,108.7,0.0599,"4-7",-2,-9.8,28
+11,"Week 11",22,"Tampa Bay Buccaneers","TB",1395.1,115.8,0.06,"3-7",-1,-13.7,19
+11,"Week 11",23,"Baltimore Ravens","BAL",1389.3,110.4,0.06,"4-7",-3,-31.8,5
+11,"Week 11",24,"New Orleans Saints","NO",1386.5,113.6,0.06,"3-7",0,-11.7,23
+11,"Week 11",25,"Philadelphia Eagles","PHI",1380.7,111.8,0.06,"3-7",3,54.1,8
+11,"Week 11",26,"Arizona Cardinals","ARI",1378.6,111.8,0.06,"3-8",-1,-13.4,30
+11,"Week 11",27,"Atlanta Falcons","ATL",1370,115.1,0.06,"3-7",-1,0,26
+11,"Week 11",28,"New York Jets","NYJ",1310.8,113.9,0.06,"3-8",2,38.3,29
+11,"Week 11",29,"Indianapolis Colts","IND",1310.5,108.8,0.06,"3-8",-2,-26.1,21
+11,"Week 11",30,"Los Angeles Chargers","LAC",1269.1,119.7,0.06,"1-9",-1,-42.7,12
+11,"Week 11",31,"Miami Dolphins","MIA",1208.3,129,0.06,"1-9",1,-3.6,32
+11,"Week 11",32,"Tennessee Titans","TEN",1202.5,122.3,0.06,"1-9",-1,-22.1,27
